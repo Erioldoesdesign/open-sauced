@@ -36,7 +36,7 @@ Open Sauced provides structured onboarding for new contributors to open source. 
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines about how to proceed.
+We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](CONTRIBUTING.md) for guidelines about how to proceed. This includes everything from code, design, user research, product management and everything that makes a great project thrive!
 
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 
@@ -85,8 +85,7 @@ This project uses the sw-precache to kickstart an offline cache. The offline cac
 
 ## 🍕 Community
 
-Got Questions? Join the conversation in our [Discord](https://discord.gg/gZMKK5q).  
-Find Open Sauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
+Got Questions? Join the conversation in the [#open-sauced channel](https://discord.gg/gZMKK5q).
 
 ## ⚖️ LICENSE
 
