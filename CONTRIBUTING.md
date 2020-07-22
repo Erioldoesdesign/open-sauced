@@ -68,12 +68,17 @@ For those interested in getting involved in the project or just open source in g
 
 ## Community
 
-Got Questions? Join the conversation in our [Discord](https://discord.gg/gZMKK5q).
+Got Questions? Join the conversation in our 'chat room' on [Discord](https://discord.gg/gZMKK5q).
 
 ## Coding Tips
 - Ask questions if you are stuck. 
 - Use [CSS variables](https://github.com/open-sauced/open-sauced/blob/master/src/styles/variables.js)
 - Always use [rel="noreferrer" on all target="_blank" links](https://web.dev/external-anchors-use-rel-noopener/). 
+
+## Design, Product Management and other contributions
+Open Sauced has not historically had much attention in the way of non-code contribution but we welcome contributions of design, product management and any other kinds of contributions that you can offer the project.
+The best way to do this is to take a look at the (main open sauced project] (https://github.com/open-sauced/open-sauced) and the [open sauced website] (https://opensauced.pizza/) and think about what you would like to improve and then 'raise an issue' or talk to us on our 'chat room' on [Discord](https://discord.gg/gZMKK5q)
+
 
 ## License
 
